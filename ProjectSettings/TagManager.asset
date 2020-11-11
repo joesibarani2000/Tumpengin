@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pointer
+  - food
+  - Table
+  - meja kecil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Food
+  - Content
+  - PlaceHolderTumpeng
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlaceHolder
+    uniqueID: 1509373241
+    locked: 0
+  - name: Plate
+    uniqueID: 3446168977
+    locked: 0
+  - name: Tumpeng
+    uniqueID: 769693363
+    locked: 0
+  - name: FoodContent
+    uniqueID: 3090059303
+    locked: 0
+  - name: Spawner
+    uniqueID: 3718354317
+    locked: 0
+  - name: FoodDrag
+    uniqueID: 535314303
+    locked: 0
+  - name: Player
+    uniqueID: 2621943169
+    locked: 0
+  - name: UI
+    uniqueID: 2379493285
+    locked: 0
+  - name: Overlay
+    uniqueID: 702442367
+    locked: 0

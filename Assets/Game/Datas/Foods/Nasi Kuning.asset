@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87abcff5778039c499ea4483ecd16d64, type: 3}
+  m_Name: Nasi Kuning
+  m_EditorClassIdentifier: 
+  name: Nasi Kuning
+  image:
+  - {fileID: 21300000, guid: 733be508441e3884eb1837c73a6c679c, type: 3}
+  - {fileID: 21300000, guid: 32c74bf36c8509e4081c257fbc5d1ae7, type: 3}
+  - {fileID: 21300000, guid: 844d9419790e498409d00ecde9d2761c, type: 3}
+  point: 0
